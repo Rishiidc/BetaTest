@@ -1,0 +1,1 @@
+window.location.href = "http://betatest.quest/lockdown.html";
